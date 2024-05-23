@@ -18,8 +18,8 @@ The app will predict whether the image contains a cat or not.
 
 
 https://github.com/suthekshan/Cat-Dog-Classification-Using-Docker/assets/140403183/f1cbf54f-3ba1-4889-aba1-a0b95752cede
-
-# Model link : https://huggingface.co/spaces/Sa-m/Dogs-vs-Cats/blob/main/best_model.h5
-
-# Docker hub: https://hub.docker.com/repository/docker/suthekshan/flask_docker/general
+#
+Model link : https://huggingface.co/spaces/Sa-m/Dogs-vs-Cats/blob/main/best_model.h5
+#
+Docker hub: https://hub.docker.com/repository/docker/suthekshan/flask_docker/general
 
